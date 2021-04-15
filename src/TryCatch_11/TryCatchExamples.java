@@ -1,7 +1,7 @@
 package TryCatch_11;
 
 /**
- * author: Jakub Marciniak
+ * @author: Jakub Marciniak
  * #11
  */
 

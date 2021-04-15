@@ -1,7 +1,7 @@
 package SwitchCase_8;
 
 /**
- * author: Jakub Marciniak
+ * @author: Jakub Marciniak
  * #8
  */
 

@@ -1,6 +1,6 @@
 package ExceptionsInJava_10;
 /**
- * author: Jakub Marciniak
+ * @author: Jakub Marciniak
  * #10
  */
 

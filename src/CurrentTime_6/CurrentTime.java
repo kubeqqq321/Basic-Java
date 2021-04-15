@@ -4,7 +4,7 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 
 /**
- * author: Jakub Marciniak
+ * @author: Jakub Marciniak
  * #6
  */
 

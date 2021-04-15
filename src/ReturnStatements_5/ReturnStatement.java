@@ -1,7 +1,7 @@
 package ReturnStatements_5;
 
 /**
- * author: Jakub Marciniak
+ * @author: Jakub Marciniak
  * #5
  */
 

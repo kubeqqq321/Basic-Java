@@ -3,7 +3,7 @@ package HashMap_12;
 import java.util.HashMap;
 
 /**
- * author: Jakub Marciniak
+ * @author: Jakub Marciniak
  * #12
  */
 

@@ -1,7 +1,7 @@
 package Break_2;
 
 /**
- * author: Jakub Marciniak
+ * @author: Jakub Marciniak
  * #2
  */
 

@@ -1,7 +1,7 @@
 package Methods_3;
 
 /**
- * author: Jakub Marciniak
+ * @author: Jakub Marciniak
  * #3
  */
 

@@ -1,7 +1,7 @@
 package ArrayList_9;
 
 /**
- * author: Jakub Marciniak
+ * @author: Jakub Marciniak
  * #9
  */
 

@@ -7,7 +7,7 @@ import java.io.IOException;
 import java.util.Scanner;
 
 /**
- * author: Jakub Marciniak
+ * @author: Jakub Marciniak
  * #7
  */
 

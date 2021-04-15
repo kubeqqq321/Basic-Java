@@ -1,7 +1,7 @@
 package NestedForLoops_1;
 
 /**
- * author: Jakub Marciniak
+ * @author: Jakub Marciniak
  * #1
  */
 

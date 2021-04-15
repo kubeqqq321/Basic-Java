@@ -1,7 +1,7 @@
 package StringMethods_4;
 
 /**
- * author: Jakub Marciniak
+ * @author: Jakub Marciniak
  * #4
  */
 

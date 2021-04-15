@@ -1,11 +1,9 @@
 package HashSetters_13;
 
 /**
- * author: Jakub Marciniak
+ * @author: Jakub Marciniak
  * #13
  */
-
-
 
 import java.util.HashSet;
 import java.util.Iterator;
@@ -50,6 +48,6 @@ public class HashSetters {
         }
 
         System.out.println(hashSet);
-        
+
     }
 }
